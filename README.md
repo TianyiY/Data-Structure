@@ -1,2 +1,7 @@
 # Data-Structure
-Implementation of data structures
+Python implementation of data structures
+- Stack
+- Queue
+- LinkedList
+- Binary Search Tree
+- Graph
