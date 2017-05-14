@@ -5,3 +5,4 @@ Python implementation of data structures
 - LinkedList
 - Binary Search Tree
 - Graph
+- Hash Table
