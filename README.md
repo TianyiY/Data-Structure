@@ -11,3 +11,8 @@ C++ implementation of data structure
 - Stack
 - Queue
 - LinkedList
+
+Python implementation of some algorithms
+- Bubble sort
+- Quick sort
+- Binary Search
